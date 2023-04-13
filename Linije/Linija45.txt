@@ -1,0 +1,8 @@
+﻿SMER:Beograd-Kraljevo
+10:05
+13:50
+19:00
+SMER:Kraljevo-Beograd
+06:05
+15:00
+17:45

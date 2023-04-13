@@ -1,0 +1,10 @@
+﻿SMER:Zlatibor-Beograd
+05:20
+10:00
+14:30
+18:00
+SMER:Beograd-Zlatibor
+09:00
+12:10
+18:45
+21:00
