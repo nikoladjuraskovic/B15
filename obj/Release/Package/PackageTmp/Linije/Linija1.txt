@@ -1,0 +1,10 @@
+﻿SMER:Valjevo-Kragujevac
+06:40
+13:00
+17:30
+21:15
+SMER:Kragujevac-Valjevo
+08:00
+15:45
+20:10
+23:00

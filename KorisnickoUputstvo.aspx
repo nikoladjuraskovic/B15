@@ -5,7 +5,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title></title>
-    <link href="style.css" rel="stylesheet" />
+    <link href="styleB15.css" rel="stylesheet" />
 </head>
 <body>
     <form id="form1" runat="server">
@@ -26,7 +26,7 @@
                     
                     Aplikacija za praćenje reda vožnje autobusa. Klikom na liniju i smer iz padajućih listi
                     korisniku se ispisuju polasci autobuskih linija sa njihovim rednim brojem i vremenom polaska.
-                    Aplikacija je realizovana u ASP.NET Web Forms tehnologiji(.NET Framework 4.8).
+                    
 
                    
                 </div>  
